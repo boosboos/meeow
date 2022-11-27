@@ -1,0 +1,31 @@
+div {
+    height: 75px;
+    background: linear-gradient(90deg, #46edc9, #0058ad);
+}
+
+.sf-snow-flake {
+    position: fixed;
+    top: -20px;
+    z-index: 99999;
+}
+
+.sf-snow-anim {
+    top: 110%;
+}
+
+
+<title > Подчеркивание у ссылок</title >
+<style type="text/css" >
+A {
+    text-decoration: none;
+}
+
+A:hover {
+    text-decoration: underline;
+    color: #6F2232;
+    body
+
+{
+    margin: 0;
+    background-color: #111;
+}
